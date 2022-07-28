@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 22 years old and I'm a software engineering student at Driven Education, actually I'm using and improving my skills with React. <br>Also, I'm in the last year of my bachelor's degree in aerospace engineering at Universidade Federal de Santa Maria, this course covers areas like: aerodynamics, propulsion, control, systems and structures/dynamics.</p>
+<p align="left">I'm 22 years old and I'm a software engineering student at Driven Education, actually I'm using and improving my skills with React. <br>Also, I'm in the last year of my bachelor's degree in aerospace engineering at Universidade Federal de Santa Maria.</p>
 
 ###
 
