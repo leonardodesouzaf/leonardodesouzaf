@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/leonardodesouzaf/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leonardodesouzaf/leonardodesouzaf/blob/output/github-contribution-grid-snake.svg)
 
 ###
