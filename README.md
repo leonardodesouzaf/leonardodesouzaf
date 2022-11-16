@@ -32,8 +32,3 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://github.com/leonardodesouzaf/leonardodesouzaf/blob/output/github-contribution-grid-snake.svg)
-
-###
