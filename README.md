@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 22 years old software engineer, also I'm in the last semester of my bachelor's degree in aerospace engineering at Universidade Federal de Santa Maria. If you want to know more about me, contact me on LinkedIn!</p>
+<p align="left">I'm 22 years old software engineer, also I'm in the last semester of my bachelor's degree in aerospace engineering at Universidade Federal de Santa Maria. If you want to know more about me, contact me on <a href='https://www.linkedin.com/in/leonardosouzaf/'>LinkedIn</a>!</p>
 
 ###
 
